@@ -12,9 +12,9 @@ TaskBridge is a full-stack task management application developed with a Django R
 - *Token-Based Authentication*: Implements JWT or session-based login for secure access.
 - *Admin Interface*: Django admin panel available for managing data and users easily.
  ### Frontend (React.js)
-- *Modern UI*: Developed with Angular to provide a responsive, single-page experience.
-- *Form Handling*: Users can add, edit, and delete tasks using reactive Angular forms.
-- *API Integration*: Communicates with the backend using Angular’s HttpClient to fetch, create, and manage tasks.
-- *Routing & Navigation*: Built-in Angular Router for smooth navigation across different app views.
+- *Modern UI*: Developed with React to provide a responsive, single-page experience.
+- *Form Handling*: Users can add, edit, and delete tasks using reactive React forms.
+- *API Integration*: Communicates with the backend using React’s HttpClient to fetch, create, and manage tasks.
+- *Routing & Navigation*: Built-in React Router for smooth navigation across different app views.
 - *Authentication Support*: Frontend includes user login and token-based session handling.
 
